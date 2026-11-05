@@ -1,3 +1,4 @@
+-- Data Preprocessing
 create database House 
 use House 
 
